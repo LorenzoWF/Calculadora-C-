@@ -326,6 +326,7 @@ namespace Trabalho3
                 else
                 {
                     lb_mostraConta.Text = string.Empty;
+
                 }
             }
 
